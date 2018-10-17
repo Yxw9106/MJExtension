@@ -31,6 +31,8 @@
  * 模型数组 --> 字典数组
  3.具体用法主要参考 main.m中各个函数 以及 "NSObject+MJKeyValue.h"
  4.希望各位大神能用得爽
+ 5.谢谢你MJ
+ 
  */
 int main(int argc, char * argv[]) {
     @autoreleasepool {
